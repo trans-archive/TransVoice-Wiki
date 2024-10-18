@@ -1,5 +1,5 @@
 ---
-title: Clarity nav_order: 7 has_children: true
+title: 清浊 nav_order: 7 has_children: true
 ---
 <details closed markdown="block">
   <summary>
@@ -12,9 +12,8 @@ title: Clarity nav_order: 7 has_children: true
 # Clarity
 Clarity is described as a multi-variable scale from clear and consistent to rough or noisy tone. For example, a voice with lots of breathiness or creak is considered low in clarity, whereas a voice that has a clear tone is considered high in clarity. This concept overlaps a lot with harmonic to noise ratio.
 
-## Harmonic to Noise Ratio
-Harmonic to Noise Ratio (HNR) is the description of essentially how noisy a
-voice is.
+## 协噪比
+协噪比 (HNR，和声与噪声的比值) 表示一个声音有多嘈杂。
 
 We have harmonics - which are the horizontal lines in the image - and then
 there's noise in between, either from constriction,
@@ -26,7 +25,7 @@ retraction) effects which might also make a voice sound 'out of place'.
 
 ![HNR](/img/hnr.png)
 
-Primary sources of low Harmonic to Noise ratio:
+低协噪比的主因：
 - abduction ([breathiness](/wiki/pages/clarity/breathiness.html))
 - [FVF](/wiki/pages/clarity/FVF.html) constriction
 - [vocal fry](/wiki/pages/other-resources/mechanisms.html#m0) and creak
