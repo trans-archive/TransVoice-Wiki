@@ -34,8 +34,8 @@ Forget singular aspects such as vocal weight, resonance etc. The more you focus 
 
 
 
-# Part One - Tone
-In this we learn to achieve a basic voice coordination which has high pitch mobility, meaning we can modulate pitch without effort and without compromising other qualities we want in our voice such as clarity and volume. It doesn't necessarily make our voices significantly feminine yet, though some people find this is all they need to achieve a feminine voice. What it does do is provide a solid but flexible and stable coordination. What we learn in this process is what most people take years to develop: clear, stable and robust glottal behavior
+# 第一节 - 音调
+在这一节，我们将学会达到具有较高音高弹性的基础声音调节力，也就是说我们可以在不费力，并且在不的情况下调节音高. It doesn't necessarily make our voices significantly feminine yet, though some people find this is all they need to achieve a feminine voice. What it does do is provide a solid but flexible and stable coordination. What we learn in this process is what most people take years to develop: clear, stable and robust glottal behavior
 
 声门行为指的仅仅是那些帮助发音的小技巧，如清晰度与明亮度。
 
