@@ -43,7 +43,7 @@ difficulty     💔 🟡 🟡 🟡 🟤 🟤 easy-medium (brightness at low pitc
 <div>slightly heavy</div>{: .label .label-blue }
 <div>low pitch</div>{: .label .label-red }
 
-Really good for learning brightness despite a very low pitch
+非常适合学习明亮音色尽管音调很低
 
 ```
 vocal weight   🥁 🟡 🟡 🟡 🟡 🟤 heavier
@@ -62,7 +62,7 @@ difficulty     💔 🟡 🟡 🟡 🟤 🟤 medium hard (bright, buzzy, high in
 <div>deep fem</div>{: .label .label-grey }
 <div>low resonance</div>{: .label .label-blue }
 
-Perfect for learning a deep feminine voice at very (120hz) low pitch.
+非常适合学习音调极低（120 赫兹）的低沉女声
 
 ```
 vocal weight   🥁 🟡 🟡 🟤 🟤 🟤 medium light
