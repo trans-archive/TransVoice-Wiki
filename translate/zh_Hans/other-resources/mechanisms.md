@@ -63,11 +63,11 @@ M1 是你的正常语音声区。
 头声（Head Voice）
 {: .label .label-blue }
 
-M2 is a usually hollow, very high pitch register.
-- sometimes has a gap between folds / lack of closure
-- very high pitch
-- the TA muscles deactivate somewhat
-- mostly just mucosa of the folds vibrates
+M2 通常是一种空灵的、高音声区。
+- 有时声带之间存在间隙 / 关闭不完全
+- 音高很高
+- TA muscles 部分失活
+- 主要是声带的黏膜部分振动
 
 ![模态语音](https://upload.wikimedia.org/wikipedia/commons/3/3c/Vocal_fold_falsett_animated.gif)
 
