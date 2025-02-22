@@ -1,26 +1,26 @@
 remote_theme: just-the-docs/just-the-docs
 
-# nav_enabled: true
-# nav_order: true
-# nav_sort: manual
-# search_enabled: true
-
 include:
   - translate/zh_Hans
 exclude:
   - translate/en
-  - wiki/pages
+  - wiki
 
-# collections:
-#   zh_Hans:
-#     output: true
-#     permalink: /zh_Hans/:path/
+collections:
+  zh_Hans:
+    output: true
+    permalink: /zh_Hans/:path/
+  en:
+    output: false
+  wiki:
+    output: false
 
 just_the_docs:
   collections:
     zh_Hans:
       name: "中文文档"
-      nav_order: 2
+      nav_order: 1
+
 
 # Set a path/url to a logo that will be displayed instead of the title
 logo: "/img/icon.png"
