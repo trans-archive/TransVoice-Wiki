@@ -1,17 +1,20 @@
 remote_theme: just-the-docs/just-the-docs
 
-nav_enabled: true
-nav_order: true
-nav_sort: manual
-search_enabled: true
+# nav_enabled: true
+# nav_order: true
+# nav_sort: manual
+# search_enabled: true
 
 include:
   - translate/zh_Hans
+exclude:
+  - translate/en
+  - wiki/pages
 
-collections:
-  zh_Hans:
-    output: true
-    permalink: /zh_Hans/:path/
+# collections:
+#   zh_Hans:
+#     output: true
+#     permalink: /zh_Hans/:path/
 
 just_the_docs:
   collections:
