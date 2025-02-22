@@ -12,7 +12,7 @@ nav_exclude: true
 1. TOC
 {:toc}
 </details>
-# FVF
+# 假声带 (FVF)
 
 {% include image.html file="/img/fvf-without-with.jpg" alt="fvf comparison" max-width="300px"
 caption="无假声带收缩（左）对比严重假声带收缩（右）"
@@ -34,11 +34,11 @@ video on false fold closure checks, glottal taps and strikes
 1. 尽可能轻地屏住呼吸。
   - 呼气（你应该能察觉到轻微的「弹开」的感觉。如果声音能被察觉到，则类似于非常微弱的轻咳）。
 2. 如果这个「弹开」声很明显，说明可能存在假声带闭合问题。
-3. 使用 glottal taps 练习，逐步让声音变得更轻，同时保持稳定的气流。不要通过减少气流来降低音量，而是使用更多的气流来挑战自己正确发声
+3. 使用「声门轻触 (glottal taps)」练习，逐步让声音变得更轻，同时保持稳定的气流。不要通过减少气流来降低音量，而是使用更多的气流来挑战自己正确发声
 
-好的 glottal taps:
+正确的/好的 声门轻触:
 <audio controls> <source src="/audio/glottal taps unconstricted.ogg" type="audio/ogg"> 浏览器不支持音频播放 </audio>
-受假声带收缩影响的 glottal taps:
+受假声带收缩影响的 声门轻触:
 <audio controls> <source src="/audio/glottal taps constricted.ogg" type="audio/ogg"> 浏览器不支持音频播放 </audio>
 
 
@@ -50,13 +50,13 @@ video/audio example of fvf constriction
 ### 通过安静呼吸减少假声带收缩
 使用安静的呼吸可以减少假声带收缩，因为呼吸的响度直接与喉部的收缩程度相关，而假声带收缩正是增加喉部紧张的原因。
 
-练习时保持放松非常重要。如果在练习过程中增加额外的努力，可能会无意中强化错误的发声习惯。
+练习时保持放松非常重要。如果在练习过程中增加额外的力，可能会无意中强化错误的发声习惯。
 
 1. 以正常方式吸气和呼气。
 2. 再次吸气和呼气，但让呼吸尽量安静、轻柔、有气息感。
    - 类似于轻轻吹灭蜡烛的感觉。
 3. 再次呼气。
-   - 在呼气的中途发出 **「啊」**。
+   - 在呼气的中途发出 「啊」。
    - 不要刻意改变音高。
    - 让「啊」保持最自然的状态，不要用力发声。
    - 这个练习类似于叹气。
