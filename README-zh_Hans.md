@@ -11,8 +11,8 @@
 建议通过提交 pull request 进行贡献：
 - 登录 GitHub
 - Fork 本项目并 clone 到本地
-- 在该项目中创建一个新分支，并将上游（upstream）设置为 `[our URL]`
-- 返回 `[our URL]` 并创建一个 pull request
+- 在该项目中创建一个新分支，并将上游（upstream）设置为 `https://github.com/trans-archive/TransVoice-Wiki` （或使用 ssh）
+- 返回 `https://github.com/trans-archive/TransVoice-Wiki` 并创建一个 pull request
 - 描述你的更改/添加内容及其原因
 
 添加或修改内容时，请遵循以下原则。改动应至少符合以下一项要求：
@@ -23,12 +23,12 @@
     _**或者**_
 - 使 Wiki 页面在风格上更加一致
 
-There are times when adding more information to a page will make it less accessible and more confusing, in which case we should ask if perhaps compartmentalising that topic into a new page such as under `https://wiki.sumianvoice.com/wiki/pages/various/` and linking to it would be better. Again, apply the above principles.
+有时，向页面添加过多信息可能会降低可访问性并增加理解难度。在这种情况下，我们应该考虑是否将该内容拆分到一个新的页面，例如对原文的增添可以对原地址 `https://wiki.sumianvoice.com/wiki/pages/various/` 提交，中文可添加至 `https://github.com/trans-archive/TransVoice-Wiki/pages/various/`，并通过链接指向它。同时，仍需遵循上述原则。
 
 
 ## GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/SumianVoice/Voice-Art-Project/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+你可以使用 [GitHub 内建编辑器](https://github.com/trans-archive/TransVoice-Wiki/edit/main/README.md) 来维护和预览你的 Markdown 文件，以更新网站内容。
 
 每次向此存储库提交更改时, GitHub Pages 都会运行 [Jekyll](https://jekyllrb.com/) 来重新构建网站，使其反映最新的内容。
 
