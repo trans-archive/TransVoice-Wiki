@@ -1,4 +1,10 @@
 source "https://rubygems.org"
-gem "jekyll"
-gem "sass", "~> 3.7"
-gem "just-the-docs"
+
+gem "github-pages", group: :jekyll_plugins
+
+gem "jekyll-remote-theme"
+gem "jekyll-sitemap"
+gem "jekyll-seo-tag"
+gem "jekyll-feed"
+gem "jekyll-paginate"
+gem "jekyll-include-cache"
