@@ -2,6 +2,7 @@ remote_theme: just-the-docs/just-the-docs
 
 include:
   - translate/zh_Hans
+  - img
 exclude:
   - translate/en
   - translate/en/**/*.md
