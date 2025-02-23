@@ -24,6 +24,7 @@ collections:
 just_the_docs:
   collections:
     zh_Hans:
+      name: "仅测试用中文文档 | Chinese localization, for testing only"
       nav_order: 1
   exclude:
     - wiki
