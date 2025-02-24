@@ -1,20 +1,27 @@
 
-![站点内部图片](/img/site-image01.jpg)
+![站点图片](/img/site-image01.jpg)
 
 ## Voice Resource Project
 本项目旨在提供尽可能多的有关**跨儿语音训练**的训练方法与参考资料。
 
-创建于 2022 03 09
-
+创建于 2022 年 03 月 09 日，翻译自 [TransVoice-Wiki - SumianVoice@Github](https://github.com/SumianVoice/TransVoice-Wiki)，中文版由 [Trans Archive!](https://github.com/trans-archive) 翻译并维护。
 
 ## 如何贡献
-建议通过提交 pull request 进行贡献：
-- 登录 GitHub
-- Fork 本项目并 clone 到本地
-- 在该项目中创建一个新分支，并将上游（upstream）设置为 `https://github.com/trans-archive/TransVoice-Wiki` （或使用 ssh）
-- 返回 `https://github.com/trans-archive/TransVoice-Wiki` 并创建一个 pull request
-- 描述你的更改/添加内容及其原因
+### 贡献翻译
+1. 通过提交 pull request 进行贡献
+    - 登录 GitHub
+    - Fork 本项目并 clone 到本地
+    - 在该项目中创建一个新分支，并将上游（upstream）设置为 `https://github.com/trans-archive/TransVoice-Wiki` （或使用 ssh）
+    - 返回 `https://github.com/trans-archive/TransVoice-Wiki` 并创建一个 pull request
+    - 描述你的更改/添加内容及其原因
+2. 使用在线协作翻译工具 [Weblate](https://weblate.project-trans.org/projects/transvoice-wiki/) 进行贡献
+    - 使用 GitHub 账号登陆如上网站
+    - 对相关条目进行更新
 
+### 向英文原文贡献
+仅支持通过提交 pull request 进行贡献，具体请参考 [How to Contribute - SumianVoice](https://github.com/SumianVoice/TransVoice-Wiki?tab=readme-ov-file#how-to-contribute)
+
+## 内容修改原则
 添加或修改内容时，请遵循以下原则。改动应至少符合以下一项要求：
 - 使语音资源更加完整，并提高普通用户的可访问性
 - 提高页面的可读性，使其更易理解
@@ -24,7 +31,6 @@
 - 使 Wiki 页面在风格上更加一致
 
 有时，向页面添加过多信息可能会降低可访问性并增加理解难度。在这种情况下，我们应该考虑是否将该内容拆分到一个新的页面，例如对原文的增添可以对原地址 `https://wiki.sumianvoice.com/translate/zh_Hans/various/` 提交，中文可添加至 `https://github.com/trans-archive/TransVoice-Wiki/pages/various/`，并通过链接指向它。同时，仍需遵循上述原则。
-
 
 ## GitHub Pages
 
