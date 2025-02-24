@@ -39,7 +39,7 @@ color_scheme: darkOverride
 title: Voice Resource Project
 description: Resources for transvoice students
 # baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://linzh7.github.io/TransVoice-Wiki" # the base hostname & protocol for your site, e.g. http://example.com
+# url: "[URL HERE]" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 #
