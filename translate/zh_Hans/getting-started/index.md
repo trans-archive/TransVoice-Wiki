@@ -61,13 +61,13 @@ has_children: true
 若你的声音有任何粗糙之处，那么请在现在尝试清洁。因为如果现在不改正，未来将会非常难去除。
 
 - 降低 [气声](clarity/breathiness)
-- 练习更轻柔的起音，并加入声门冲击训练
-- 减少 [假声带](clarity/FVF)收缩 或 声音粗糙感
+- 练习更轻柔的起音，并加入 声门冲击 (glottal strikes) 训练
+- 减少 [假声带](clarity/FVF) 收缩 或 声音粗糙感
 - 识别并消除紧张源
 - 找到或创建适合你的「懒惰配置」（放松、易达到但有效的语音状态）
 
 ## 练习语音范式
-- 找到你喜欢的声音的 [语音示例] (/translate/zh_Hans/voice-examples)
+- 找到你喜欢的声音的 [语音示例](/translate/zh_Hans/voice-examples)
 - 避免用响度来强调女性声音
 - 尝试不同的节奏
 - 模仿某人的语音范式
@@ -78,7 +78,7 @@ has_children: true
 - 练习将 M2 / 假声融合进主声区，使其听起来更加饱满
 - 逐步练习更高的语调变化
 
-## ## 开始 [模仿](microbehaviours/mimicry) 并学习 [微行为](microbehaviours)
+## ## 开始 [模仿练习](microbehaviours/mimicry) 并学习 [微行为](microbehaviours)
 - 你可以随时进行这项练习，但要确保自己能够匹配你所模仿声音的音高和共鸣，否则可能会变得非常困难。
 - 找一个与你的音高和共鸣范围相匹配的语音片段，例如[语音示例](voice-examples)中的内容。
 - 如果需要，可以在语音片段开头添加一个提示声（比如哔）来帮助掌握节奏。

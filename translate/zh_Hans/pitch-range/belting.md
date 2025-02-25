@@ -1,5 +1,5 @@
 ---
-title: 强胸声训练
+title: 强胸声训练 (Belting)
 parent: "音域扩展 (Pitch Range Expansion)"
 nav_order: 2
 ---
