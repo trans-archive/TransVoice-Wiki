@@ -5,7 +5,7 @@ has_children: false
 nav_exclude: true
 ---
 
-# 声音资源库
+# TransVoice Wiki - 跨儿语音训练资源库
 该项目由 Sumi 和 Emma 发起。这是一个开放资源，因此如果你有补充、建议或批评意见，我们都欢迎你的反馈。
 
 中文版翻译自 [TransVoice-Wiki - SumianVoice@Github](https://github.com/SumianVoice/TransVoice-Wiki) 由 [Trans Archive!](https://github.com/trans-archive) 翻译并维护。
