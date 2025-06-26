@@ -42,7 +42,7 @@ has_children: false
 {: .d-inline-block }
 <div>有风险</div>{: .label .label-yellow }
 
-- 可能导致[假声带 (FVF)](clarity/FVF) 的闭合与真正声带闭合，即 [气声](clarity/breathiness) 混淆
+- 可能导致[假声带 (FVF)](../clarity/FVF) 的闭合与真正声带闭合 [见此页面 - 闭合程度](../clarity/breathiness) 
 - 如果习惯化，会非常、非常难以纠正
 
 **避免风险的方法**:
