@@ -24,7 +24,7 @@ has_children: true
 导致谐噪比低的主要原因：
 - 声门外展 ([气声](breathiness))
 - [假声带收缩 (FVF)](FVF) constriction
-- [低频喉音](../other-resources/mechanismsl#m0) 以及 喉音震颤 (creak)
+- [低频喉音](../other-resources/mechanisms#m0) 以及 喉音震颤 (creak)
 
 ## 掩盖因素（Covers）
 掩盖因素指任何能掩盖、改变或伪装声音整体音质的因素。例如，鼻音就是一种掩盖因素。
