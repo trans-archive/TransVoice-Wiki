@@ -17,7 +17,7 @@ nav_order: 2
 强胸声训练示例：
 <audio controls> <source src="/audio/belt-masc.ogg" type="audio/ogg"> Your browser does not support the audio element. </audio>
 
-## 不要 [过度内收（Hyperadduction）](various/hyperadduction)
+## 不要 [过度内收（Hyperadduction）](../various/hyperadduction)
 强胸声训练本质上是提高音量，使声音接近喊叫状态，以便唱更高音，但这容易导致声带过度内收（Hyperadduction）。不要用力过猛，以免声音过度上扬。慢慢地在音阶中一次增加一点是减少声音过度上扬的好方法。
 
 ## 核心要素
